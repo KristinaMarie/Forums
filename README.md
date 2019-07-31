@@ -1,7 +1,8 @@
 # Forums
 Peer exchange frameworks for remote Forum connection. 
 
-[Medium article from Marko Gargenta.](https://ideas.plusplus.co/forum-a-peer-coaching-group-5e4a8000e598)  
+[Medium article from Marko Gargenta.](https://ideas.plusplus.co/forum-a-peer-coaching-group-5e4a8000e598) 
+[Forum: The Secret Advantage of Successful Leaders](https://www.amazon.com/Forum-Secret-Advantage-Successful-Leaders/dp/1430327812)
 
 ## Forum Ground Rules 
 In order to create an environment that fosters authenticity, confidence, and trust, we suggest following three “rules” that will help you create an authentic bonding experience with your Squad Members.
